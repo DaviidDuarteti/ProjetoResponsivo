@@ -15,10 +15,12 @@ body{
     background-color: white;
 }
 
+
+
 .header{
+   
     padding: 30px;
     text-align: center;
-    background-image: url(/img/cinemark.jpg);
     background-position: center;
     color: white;
 }
